@@ -1,0 +1,10 @@
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/bin/Debug/netcoreapp2.0/RESTaurant.deps.json
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/bin/Debug/netcoreapp2.0/RESTaurant.runtimeconfig.json
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/bin/Debug/netcoreapp2.0/RESTaurant.runtimeconfig.dev.json
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/bin/Debug/netcoreapp2.0/RESTaurant.dll
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/bin/Debug/netcoreapp2.0/RESTaurant.pdb
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/obj/Debug/netcoreapp2.0/RESTaurant.csproj.CoreCompileInputs.cache
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/obj/Debug/netcoreapp2.0/RESTaurant.AssemblyInfoInputs.cache
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/obj/Debug/netcoreapp2.0/RESTaurant.AssemblyInfo.cs
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/obj/Debug/netcoreapp2.0/RESTaurant.dll
+/Users/RossHargrove/Desktop/CodingDojo_C#/ASP.NET_ORMs/entity/RESTaurant/obj/Debug/netcoreapp2.0/RESTaurant.pdb

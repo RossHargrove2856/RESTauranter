@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Reviews</h1>
+@{  if(ViewBag.AllReviews == null)
+    {
+        <h3>There are no reviews yet</h3>
+    }
+    else
+    {
+        <ul class="list-group list-group-flush">
+        @foreach(var review in ViewBag.AllReviews) {
+            <li class="list-group-item">
+                <h3>Review for @review.restaurant_name</h3>
+                <h3>@review.stars stars</h3>
+                <p>Reviewer: @review.name, @review.date_of_visit</p>
+                <p>@review.review</p>
+            </li>
+        }
+        </ul>
+    }
+}
+<a href="/Create">Add a new review</a>
